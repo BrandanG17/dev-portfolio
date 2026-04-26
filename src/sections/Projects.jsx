@@ -26,6 +26,14 @@ const projects = [
     tags: ["CMS", "Wordpress", "Elementor"],
     link: "https://scottq.consulting",
   },
+  {
+    title: "Food/Restaurant Randomizer",
+    description: "A fun app that decides for you where to eat!",
+    image: "/projects/project4.png",
+    tags: ["Vite", "React", "TailwindCSS", "JavaScript"],
+    link: "https://foodtrip-randomizer.vercel.app",
+    github: "https://github.com/BrandanG17/foodtrip-randomizer",
+  },
 ];
 
 export const Projects = () => {
@@ -68,7 +76,7 @@ export const Projects = () => {
                 />
                 <div
                   className="absolute inset-0 
-                bg-gradient-to-t from-card via-card/50
+                bg-linear-to-t from-card via-card/50
                  to-transparent opacity-60"
                 />
                 {/* Overlay Links */}
