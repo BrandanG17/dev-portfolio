@@ -81,7 +81,7 @@ export const Hero = () => {
                 <br />
                 <span className='font-serif italic font-normal text-white'>precision.</span> */}
                 Hi, I'm Brandan Gumila — a software engineer building projects
-                with in React and JavaScript.
+                with React and JavaScript.
               </h1>
               <p className="text-md text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
                 currently focused on improving my frontend skills and building
